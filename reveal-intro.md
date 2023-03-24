@@ -1,4 +1,15 @@
-<style>code{color: hotpink}</style>
+<style>
+code{color: hotpink};
+.code-wrapper{
+    padding: 0 !important;
+}
+pre {
+    padding: 0 !important;
+}
+strong {
+    color: white;
+}
+</style>
 
 # Tutorial: How to use reveal-md
 
@@ -139,7 +150,7 @@ reveal-md . -w
 ### Use ChatGPT for slide generation <!-- .slide: data-background-color="#00A67E" -->
 ---
 <!-- .slide: data-background-color="#00A67E" -->
-<img style="position: relative; top: 40px;" height="70px" src="images%2Fgpt.png"> ...
+<img style="position: relative; top: 40px;" height="40px" src="images%2Fgpt.png"> ...
 - <span style="font-size: larger">🗣</span>️  *Generate me 3 markdown slides for reveal.js which explain the importance of carrot farming in south africa. (Create markdown code snippets, always use a Level 3 header ### for the title), use bullet points and no long sentences, use emojis when appropriate)*
 ---
 ### The Importance of Carrot Farming in South Africa 🥕🇿🇦
