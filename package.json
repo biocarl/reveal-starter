@@ -1,4 +1,9 @@
 {
+  "name": "reveal-starter",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "reveal-md reveal-intro.md --static _site"
+  },
   "dependencies": {
     "reveal-md": "^5.4.1"
   }
