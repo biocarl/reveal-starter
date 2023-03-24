@@ -250,3 +250,13 @@ We also can do this in reveal.js too
 - Sure, book me in!
 - Yes, but I only want to watch...
 </div>
+---
+### Final remark
+*Reveal.js is just a bunch of **HTML/CSS/JS** files ...* 🤨
+
+Hosted on: `localhost`
+
+Current slide: [http://localhost:1948/reveal-intro.md#/34](http://localhost:1948/reveal-intro.md#/34)
+---
+### This is online 🌍
+- Visit [carlhauck.de/reveal-starter](http://carlhauck.de/reveal-starter/#/35)
